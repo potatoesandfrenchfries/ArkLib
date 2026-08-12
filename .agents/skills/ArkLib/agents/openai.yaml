@@ -1,0 +1,6 @@
+interface:
+  display_name: "ArkLib"
+  short_description: "Repo-specific patterns and workflows for ArkLib"
+  default_prompt: "Use the ArkLib repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
